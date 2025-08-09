@@ -1,14 +1,14 @@
-#Read Mode
+# Read Mode
 # file_r = open("demo.txt","r")
 # print(file_r.read())
 # file_r.close()
 
-#Writing Mode
+# Writing Mode
 # file_w = open("demo.txt","w")
 # file_w.write("I Am 12 Years Old.")
 # file_w.close()
 
-#Append Mode
+# Append Mode
 # file_a = open("demo.txt","a")
 # file_a.write(f" I Love Coding!")
 # file_a.close()
